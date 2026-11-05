@@ -1,5 +1,5 @@
 # app-dev
-My first repositoryHow to train your dragon
+My first repository
 
 How to train your dragon
 Our beloved summer
